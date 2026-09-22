@@ -42,7 +42,7 @@ Always learning, building, debugging, and improving as a developer.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshvenkii&hide_border=false&border=00E5FF&background=09090B&stroke=27272A&ring=8B5CF6&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A1A1AA" width="58%" />
 
 </div>
----
+
 
 ## 🌐 Connect With Me
 
