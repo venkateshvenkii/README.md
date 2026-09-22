@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Darshan KN </h1>
+<h1 align="center">Hi 👋, I'm Venkatesh P </h1>
  =================================================================================================
                 
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dacchudarshan&label=Profile%20views&color=0e75b6&style=flat" alt="dacchudarshan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dacchudarshan&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshvenkii" /> </p>
  
 ~ 👨🏻‍💻 i'm student!
 
 ~ 👨‍💻 I’m currently working as a Software Engineer Intern at [**Algorithms365**](https://www.algorithms365.com)
 
-~ 👨‍💻 I’m currently studying on Master Of Science (DATA SCIENCE) 
-
 ~ 🌱 I’m currently learning System Design and Agentic AI 
 
-~ 📫 Reach out to me at kndarshan15@gmail.com
+~ 📫 Reach out to me at venkateshvenky3843@gmail.com
 
 <h3 align="left">GitHub Stats:</h3> 
 
