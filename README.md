@@ -33,16 +33,15 @@ Always learning, building, debugging, and improving as a developer.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=venkateshvenkii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=venkateshvenkii&show_icons=true&hide_border=false&border_color=00E5FF&bg_color=09090B&title_color=00E5FF&text_color=E4E4E7&icon_color=8B5CF6&rank_icon=github" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshvenkii&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshvenkii&layout=compact&hide_border=false&border_color=00E5FF&bg_color=09090B&title_color=00E5FF&text_color=E4E4E7&icon_color=8B5CF6" width="40%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshvenkii&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshvenkii&hide_border=false&border=00E5FF&background=09090B&stroke=27272A&ring=8B5CF6&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A1A1AA" width="70%" />
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me
