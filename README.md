@@ -69,9 +69,6 @@ Always learning, building, debugging, and improving as a developer.
 
 ---
 
-<div align="center">
-
-### ✨ Learn • Practice • Build • Improve
 
 </div>
 
