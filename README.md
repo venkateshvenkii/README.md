@@ -33,13 +33,13 @@ Always learning, building, debugging, and improving as a developer.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=venkateshvenkii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=venkateshvenkii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshvenkii&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshvenkii&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="40%" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshvenkii&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshvenkii&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" />
 
 </div>
 
