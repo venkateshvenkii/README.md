@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Venkatesh%20P&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20Intern%20%7C%20Java%20Developer%20%7C%20Problem%20Solver&descAlignY=65&descSize=18"/>
 
-<h2>👋 Hi, I'm <strong>Venkatesh P</strong></h2>
-
-<p>
-<strong>Software Engineer Intern</strong> • Java Developer • Problem Solver
-</p>
-
 <p>
 <img src="https://komarev.com/ghpvc/?username=venkateshvenkii&label=PROFILE%20VIEWS&color=00d9ff&style=flat-square" />
 </p>
@@ -18,15 +12,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student** passionate about software development, problem solving, and continuous learning.
-
-* 💼 **Software Engineer Intern** at **Algorithms365**
-* ☕ Currently strengthening my **Java fundamentals**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🏗️ Learning **System Design**
-* 🤖 Exploring **Generative AI & Agentic AI**
-* 🚀 Working toward becoming a strong **Software Development Engineer**
-* 🔨 Learning by **building, practicing, debugging, and improving**
+I'm a Computer Science Engineering student passionate about software development and problem solving.
+Currently working as a **Software Engineer Intern at Algorithms365**.
+Focused on strengthening my **Java, Python, and programming fundamentals**.
+Always learning, building, debugging, and improving as a developer.
 
 ---
 
@@ -34,64 +23,9 @@ I'm a **Computer Science Engineering student** passionate about software develop
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python" />
 
 </div>
-
----
-
-## 🎯 Current Learning Focus
-
-<div align="center">
-
-**Java** → **Problem Solving** → **DSA** → **System Design** → **Agentic AI**
-
-</div>
-
-### ☕ Java
-
-* Programming Fundamentals
-* Methods
-* Object-Oriented Programming
-* Memory & JVM concepts
-* Clean & Professional Coding
-
-### 🧠 Problem Solving
-
-* Logical thinking
-* Algorithmic thinking
-* Coding practice
-* Debugging
-
-### 🏗️ System Design
-
-* Learning the fundamentals
-* Designing scalable systems
-* Understanding software architecture
-
-### 🤖 AI
-
-* Generative AI
-* Agentic AI
-* AI-powered applications
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Online Exam Proctoring System
-
-An AI-based online examination monitoring system designed to identify suspicious activities during online exams.
-
-**Focus:** Artificial Intelligence • Computer Vision • Problem Solving
-
----
-
-### 🪚 Kashta-Kala
-
-A GenAI-based Android application focused on supporting small-town carpenters and furniture makers with technology-driven self-employment opportunities.
-
-**Focus:** Generative AI • Application Development • Real-World Problem Solving
 
 ---
 
@@ -111,39 +45,33 @@ A GenAI-based Android application focused on supporting small-town carpenters an
 
 ---
 
-## 🧠 My Development Philosophy
-
-<div align="center">
-
-### Learn → Practice → Build → Debug → Improve
-
-</div>
-
-I believe becoming a strong software engineer comes from understanding fundamentals, solving problems consistently, and learning from every mistake.
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_HACKERRANK_URL">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 <a href="mailto:venkateshvenky3843@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-### ✨ Building my skills, one line of code at a time.
-
-⭐ **Thanks for visiting my profile!**
+### ✨ Learn • Practice • Build • Improve
 
 </div>
 
