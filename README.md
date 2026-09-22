@@ -1,17 +1,15 @@
 <div align="center">
 
-<!-- PROFILE HEADER -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Venkatesh%20P&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20Intern%20%7C%20Java%20Developer%20%7C%20Problem%20Solver&descAlignY=65&descSize=18"/>
 
 <h2>👋 Hi, I'm <strong>Venkatesh P</strong></h2>
 
 <p>
-  <strong>Software Engineer Intern</strong> • Java Developer • Problem Solver
+<strong>Software Engineer Intern</strong> • Java Developer • Problem Solver
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=venkateshvenkii&label=PROFILE%20VIEWS&color=00d9ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=venkateshvenkii&label=PROFILE%20VIEWS&color=00d9ff&style=flat-square" />
 </p>
 
 </div>
@@ -20,88 +18,84 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student** passionate about building software, solving problems, and continuously improving my engineering skills.
+I'm a **Computer Science Engineering student** passionate about software development, problem solving, and continuous learning.
 
 * 💼 **Software Engineer Intern** at **Algorithms365**
-* ☕ Currently focused on **Java & Programming Fundamentals**
-* 🧩 Practicing **Data Structures & Algorithms**
+* ☕ Currently strengthening my **Java fundamentals**
+* 🧠 Practicing **Data Structures & Algorithms**
 * 🏗️ Learning **System Design**
 * 🤖 Exploring **Generative AI & Agentic AI**
 * 🚀 Working toward becoming a strong **Software Development Engineer**
-* 🔨 Learning by **building, debugging, and practicing**
+* 🔨 Learning by **building, practicing, debugging, and improving**
 
 ---
 
-## 🎯 Current Focus
+## 💻 Programming Languages
 
 <div align="center">
 
-| Area               | Currently Learning           |
-| ------------------ | ---------------------------- |
-| ☕ Programming      | Java & OOP                   |
-| 🧠 Problem Solving | Data Structures & Algorithms |
-| 🏗️ Architecture   | System Design                |
-| 🤖 AI              | Generative AI & Agentic AI   |
-| 🔧 Engineering     | Clean & Professional Coding  |
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
 
 </div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🎯 Current Learning Focus
 
-### Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+**Java** → **Problem Solving** → **DSA** → **System Design** → **Agentic AI**
 
-### Backend & Web
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+### ☕ Java
 
-### Databases
+* Programming Fundamentals
+* Methods
+* Object-Oriented Programming
+* Memory & JVM concepts
+* Clean & Professional Coding
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+### 🧠 Problem Solving
 
-### Cloud & DevOps
+* Logical thinking
+* Algorithmic thinking
+* Coding practice
+* Debugging
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+### 🏗️ System Design
+
+* Learning the fundamentals
+* Designing scalable systems
+* Understanding software architecture
+
+### 🤖 AI
+
+* Generative AI
+* Agentic AI
+* AI-powered applications
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Online Exam Proctoring
+### 🤖 AI Online Exam Proctoring System
 
-AI-powered online examination monitoring system designed to detect suspicious behavior during online exams.
+An AI-based online examination monitoring system designed to identify suspicious activities during online exams.
 
-**Tech:** Python • Flask • React • YOLO • MediaPipe • Computer Vision
+**Focus:** Artificial Intelligence • Computer Vision • Problem Solving
 
 ---
 
 ### 🪚 Kashta-Kala
 
-GenAI-powered Android application focused on helping small-town carpenters and furniture makers discover technology-driven self-employment opportunities.
+A GenAI-based Android application focused on supporting small-town carpenters and furniture makers with technology-driven self-employment opportunities.
 
-**Tech:** Android • GenAI • Firebase • AI
+**Focus:** Generative AI • Application Development • Real-World Problem Solving
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -121,11 +115,11 @@ GenAI-powered Android application focused on helping small-town carpenters and f
 
 <div align="center">
 
-**Learn → Practice → Build → Debug → Improve**
+### Learn → Practice → Build → Debug → Improve
 
 </div>
 
-I believe strong developers are built through consistent practice, understanding fundamentals, and solving real problems.
+I believe becoming a strong software engineer comes from understanding fundamentals, solving problems consistently, and learning from every mistake.
 
 ---
 
@@ -149,10 +143,8 @@ I believe strong developers are built through consistent practice, understanding
 
 ### ✨ Building my skills, one line of code at a time.
 
-**Thanks for visiting my profile! ⭐**
+⭐ **Thanks for visiting my profile!**
 
 </div>
-
-<!-- PROFILE FOOTER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
