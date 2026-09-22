@@ -57,7 +57,7 @@ Always learning, building, debugging, and improving as a developer.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_HACKERRANK_URL">
+<a href="https://www.hackerrank.com/profile/venkateshvenkii">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
